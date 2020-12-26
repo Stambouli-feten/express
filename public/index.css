@@ -1,0 +1,28 @@
+.navbar {
+  background-color: rgb(187, 170, 202);
+  height: 70px;
+  display: flex;
+  justify-content: space-between;
+  padding: 0 50px;
+  font-size: x-large;
+}
+.serviceButton {
+  height: 60px;
+  font-size: x-large;
+  background-color: brown;
+}
+.navigation {
+  display: contents;
+  padding-top: 15px;
+}
+a {
+  padding-top: 15px;
+}
+.paragraphe {
+  border: darkgreen 2px solid;
+  margin: 30px;
+  font-size: large;
+}
+body {
+  text-align: center;
+}
